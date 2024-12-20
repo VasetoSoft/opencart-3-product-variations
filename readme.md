@@ -7,6 +7,8 @@
 
 find array of images:
 
+```
+
 <?php
 
     // PRODUCT MAIN IMAGES ARRAY
@@ -56,8 +58,12 @@ find array of images:
 
 ?>
 
+```
+
 ## Update Product View
 # OpenCart3\catalog\view\theme\electronic\template\product\product.twig
+
+```
 
 <script type="text/javascript">
     $('.radio input:radio').each(function(idx, elem) {
@@ -68,3 +74,5 @@ find array of images:
         });
     });
 </script>
+
+```
